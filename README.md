@@ -5,7 +5,7 @@ My old PrimaLuceLab Sesto Senso focuser wasn't cooperating anymore. The control 
 
 Since I already use Onstep for my telescope's motion control (which also supports focus motors), I decided to reuse the focuser. I created a replacement electronics board with a stepper motor connection and an RJ22 jack that fits perfectly in the original DC power jack's spot. I even designed a new, 3D printed top cover with mounting points for the new board.
 
-This "conversion" to onstep is really simple.. I'm just removeing all the electronics, and bringing out the stepper motor connections to an RJ22-4p4c modular connector.
+This "conversion" to onstep is really simple.. I'm just removeing all the electronics, and bringing out the stepper motor connections to an RJ22-4p4c modular connector.  I would love to find other things to put on this PCB, like maybe a temp sensor port, but then you have more connection coming to, and going from this focuser.  Less than ideal.
 
 The conversion process is super straightforward:
 
