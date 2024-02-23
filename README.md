@@ -9,11 +9,11 @@ This "conversion" to onstep is really simple.. I'm just removeing all the electr
 
 The conversion process is super straightforward:
 
-Unscrew the white top cover.
-Remove the old electronics, leaving only the stepper motor.
-Mount the new PCB in the cover using the dedicated points.
-Connect the stepper motor to the PCB.
-Screw the cover/PCB assembly back onto the focuser body.
+1. Unscrew the white top cover.
+2. Remove the old electronics, leaving only the stepper motor.
+3. Solder components to PCB and mount in the cover using the dedicated points.
+4. Connect the stepper motor to the PCB.
+5. Screw the cover/PCB assembly back onto the focuser body.
 You're done!
 
 This upgrade breathes new life into my old focuser, utilizing its existing motor and integrating seamlessly with my existing setup. No more wasted components, just a revitalized focuser!
